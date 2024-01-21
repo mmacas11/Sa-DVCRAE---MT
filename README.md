@@ -1,4 +1,4 @@
-#Modelo generativo profundo de autoatención robusto para la detección de anomalías en sistemas ciberfísicos industriales
+# Modelo generativo profundo de autoatención robusto para la detección de anomalías en sistemas ciberfísicos industriales
 
 Los sistemas ciberfísicos industriales (ICPS) desempeñan un papel crucial en las industrias modernas, 
 ofrecen numerosos beneficios pero también se convierten en un objetivo principal para ataques físicos y 
